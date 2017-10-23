@@ -1,3 +1,14 @@
 # hello-world
-You know the deal, Neal.
-Kneel. Kneel before Zod.
+Michael Tanji currently serves as COO at Senrio. He was co-founder and Chief Security Officer at Kyrus Tech (kyr.us), a computer security services company, one of the co-founders of the original Carbon Black (carbonblack.com), and the former CEO of Syndis (synd.is).
+
+Michael began his career as a member of the U.S. Army’s Military Intelligence Corps, working in a number of positions of increasing responsibility in signals intelligence, computer security and information security. He is a veteran of Operation Desert Storm and was stationed in various locations in the U.S. and overseas.
+
+After leaving active duty Michael worked as a civilian for the U.S. Army’s Intelligence and Security Command, leading a team of analysts and programmers supporting intelligence missions in the Pacific theater. His service with INSCOM cumulated as the Technical Director of the J6 in his command, responsible for evaluating, acquiring and deploying information technology in support of intelligence collection and analysis missions.
+
+Michael left INSCOM to join the Defense Intelligence Agency, where he deployed in a counterintelligence/human intelligence role in support of Operation Allied Force. He later served as the lead of the Defense Indications and Warning System, Computer Network Operations, responsible for providing strategic warning of cyber threats to the DOD. He was one of the handful of intelligence officers selected by-name to provide intelligence support to the Joint Task Force – Computer Network Defense, the predecessor to what would eventually become U.S. Cyber Command. His expertise led to his selection as his agency’s representative to numerous joint-, inter-agency, and international efforts to deal with cyber security issues, including projects for the National Intelligence Council, National Security Council, and NATO. After September 11th 2001 Michael created the DOD’s first computer forensics and intelligence fusion team, which produced the first intelligence assessments based on computer-derived intelligence from the early days of the war on terror.
+
+After leaving government service in 2005 Michael worked in various computer security and intelligence roles in private industry. He spent several years as an adjunct lecturer at the George Washington University and was a Claremont Institute Lincoln Fellow.
+
+Michael is the editor of and contributor to _Threats in the Age of Obama,_ a compendium of articles on wide-ranging national and international security issues. He has been interviewed by radio and print media on his experiences and expertise on security and intelligence issues, and had articles, interviews, and op-eds published in Tablet Magazine, National Review, INFOSEC Institute, SC Magazine, and others.
+
+Michael was awarded a bachelor’s degree in computer science from Hawaii Pacific University, a master’s degree in computer crime and forensics from George Washington University, and earned the CISSP credential in 1999.
