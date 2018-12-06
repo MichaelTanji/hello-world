@@ -1,5 +1,5 @@
 # hello-world
-Michael Tanji currently serves as COO at Senrio. He was co-founder and Chief Security Officer at Kyrus Tech (kyr.us), a computer security services company, one of the co-founders of the original Carbon Black (carbonblack.com), and the former CEO of Syndis (synd.is).
+Michael Tanji is a security and intelligence expert. Most recently he served as COO at Senrio. He was co-founder and Chief Security Officer at Kyrus Tech (kyr.us), a computer security services company, one of the co-founders of the original Carbon Black (carbonblack.com), and the former CEO of Syndis (synd.is).
 
 Michael began his career as a member of the U.S. Army’s Military Intelligence Corps, working in a number of positions of increasing responsibility in signals intelligence, computer security and information security. He is a veteran of Operation Desert Storm and was stationed in various locations in the U.S. and overseas.
 
@@ -9,6 +9,6 @@ Michael left INSCOM to join the Defense Intelligence Agency, where he deployed i
 
 After leaving government service in 2005 Michael worked in various computer security and intelligence roles in private industry. He spent several years as an adjunct lecturer at the George Washington University and was a Claremont Institute Lincoln Fellow.
 
-Michael is the editor of and contributor to _Threats in the Age of Obama,_ a compendium of articles on wide-ranging national and international security issues. He has been interviewed by radio and print media on his experiences and expertise on security and intelligence issues, and had articles, interviews, and op-eds published in Tablet Magazine, National Review, INFOSEC Institute, SC Magazine, and others.
+Michael is the editor of and contributor to _Threats in the Age of Obama,_ a compendium of articles on wide-ranging national and international security issues. He is also the author of the oral history _Working in Cybersecurity_. He has been interviewed by radio and print media on his experiences and expertise on security and intelligence issues, and had articles, interviews, and op-eds published in Tablet Magazine, INFOSEC Institute, SC Magazine, and others.
 
 Michael was awarded a bachelor’s degree in computer science from Hawaii Pacific University, a master’s degree in computer crime and forensics from George Washington University, and earned the CISSP credential in 1999.
