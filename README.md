@@ -9,6 +9,6 @@ Michael left INSCOM to join the Defense Intelligence Agency, where he deployed i
 
 After leaving government service in 2005 Michael worked in various computer security and intelligence roles in private industry. He spent several years as an adjunct lecturer at the George Washington University and was a Claremont Institute Lincoln Fellow.
 
-Michael is the editor of and contributor to _Threats in the Age of Obama,_ a compendium of articles on wide-ranging national and international security issues. He is also the author of the oral history _Working in Cybersecurity_. He has been interviewed by radio and print media on his experiences and expertise on security and intelligence issues, and had articles, interviews, and op-eds published in Tablet Magazine, INFOSEC Institute, SC Magazine, and others.
+Michael is the editor of and contributor to _Threats in the Age of Obama,_ a compendium of articles on wide-ranging national and international security issues. He is also the author of the oral history _Working in Cybersecurity_ and _The First Cybersecurity Book Your Company Will Ever Need_. He has been interviewed by radio and print media on his experiences and expertise on security and intelligence issues, and had articles, interviews, and op-eds published in Tablet Magazine, INFOSEC Institute, SC Magazine, and others.
 
 Michael was awarded a bachelor’s degree in computer science from Hawaii Pacific University, a master’s degree in computer crime and forensics from George Washington University, and earned the CISSP credential in 1999.
